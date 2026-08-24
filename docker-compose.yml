@@ -1,0 +1,58 @@
+# NetGuard AI — docker-compose (Phase 1 skeleton, services fully wired in Phase 19)
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: netguard-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-netguard}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-netguard_secret}
+      POSTGRES_DB: ${POSTGRES_DB:-netguard}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-netguard}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: netguard-backend
+    restart: unless-stopped
+    environment:
+      APP_ENV: ${APP_ENV:-development}
+      DEMO_MODE: ${DEMO_MODE:-true}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      DATABASE_URL: postgresql://${POSTGRES_USER:-netguard}:${POSTGRES_PASSWORD:-netguard_secret}@postgres:5432/${POSTGRES_DB:-netguard}
+      MODEL_DIR: /app/models
+      REPLAY_SAMPLE_PATH: /app/data/sample
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000}
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./models:/app/models:ro
+      - ./data:/app/data:ro
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: netguard-frontend
+    restart: unless-stopped
+    ports:
+      - "${FRONTEND_PORT:-3000}:80"
+    depends_on:
+      - backend
+
+
+volumes:
+  pgdata:

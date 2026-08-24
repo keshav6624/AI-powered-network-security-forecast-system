@@ -1,0 +1,20 @@
+{
+  "_note": "Place real Colab evaluation results here as experiments/metrics.json. This file is an EXAMPLE schema only — values are dummy.",
+  "generated_at": "2026-08-24T00:00:00Z",
+  "dataset": "CSE-CIC-IDS2018",
+  "horizon_minutes": 5,
+  "sequence_length": 10,
+  "models": [
+    {
+      "model": "logistic_regression",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.0,
+      "pr_auc": 0.0,
+      "false_positive_rate": 0.0,
+      "inference_latency_ms": 0.0,
+      "note": "Replace with real evaluation after Colab training. Do not fabricate."
+    }
+  ]
+}

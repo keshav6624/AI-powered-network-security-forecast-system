@@ -1,0 +1,3802 @@
+[
+  {
+    "window_id": "win-00000",
+    "timestamp": "02/03/2018 03:48:26",
+    "features": {
+      "Flow Duration": 465.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4301.075269,
+      "Fwd Pkts/s": 4301.075269,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00001",
+    "timestamp": "02/03/2018 03:45:02",
+    "features": {
+      "Flow Duration": 13988.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 32527.88104,
+      "Flow Pkts/s": 500.4289391,
+      "Fwd Pkts/s": 214.4695453,
+      "Bwd Pkts/s": 285.9593938,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00002",
+    "timestamp": "02/03/2018 01:05:55",
+    "features": {
+      "Flow Duration": 9951.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 45724.04783,
+      "Flow Pkts/s": 703.4468898,
+      "Fwd Pkts/s": 301.4772385,
+      "Bwd Pkts/s": 401.9696513,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00003",
+    "timestamp": "02/03/2018 11:11:23",
+    "features": {
+      "Flow Duration": 495.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4040.40404,
+      "Fwd Pkts/s": 4040.40404,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00004",
+    "timestamp": "02/03/2018 09:51:44",
+    "features": {
+      "Flow Duration": 86463953.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.023131027,
+      "Fwd Pkts/s": 0.023131027,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 86500000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00005",
+    "timestamp": "02/03/2018 02:31:05",
+    "features": {
+      "Flow Duration": 472.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4237.288136,
+      "Fwd Pkts/s": 4237.288136,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00006",
+    "timestamp": "02/03/2018 09:26:25",
+    "features": {
+      "Flow Duration": 36288.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 7881.393298,
+      "Flow Pkts/s": 110.2292769,
+      "Fwd Pkts/s": 55.11463845,
+      "Bwd Pkts/s": 55.11463845,
+      "Pkt Len Mean": 65.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00007",
+    "timestamp": "02/03/2018 10:35:30",
+    "features": {
+      "Flow Duration": 38.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 52631.57895,
+      "Fwd Pkts/s": 52631.57895,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00008",
+    "timestamp": "02/03/2018 02:48:03",
+    "features": {
+      "Flow Duration": 63379591.0,
+      "Tot Fwd Pkts": 16.0,
+      "Tot Bwd Pkts": 18.0,
+      "Flow Byts/s": 45.1249362,
+      "Flow Pkts/s": 0.53645029,
+      "Fwd Pkts/s": 0.252447196,
+      "Bwd Pkts/s": 0.284003095,
+      "Pkt Len Mean": 81.71428571,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 4572409.0,
+      "Idle Mean": 58700000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00009",
+    "timestamp": "02/03/2018 02:09:27",
+    "features": {
+      "Flow Duration": 11187.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40672.20881,
+      "Flow Pkts/s": 625.7262894,
+      "Fwd Pkts/s": 268.1684098,
+      "Bwd Pkts/s": 357.5578797,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00010",
+    "timestamp": "02/03/2018 01:03:24",
+    "features": {
+      "Flow Duration": 10481.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 43411.88818,
+      "Flow Pkts/s": 667.8752027,
+      "Fwd Pkts/s": 286.2322297,
+      "Bwd Pkts/s": 381.642973,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00011",
+    "timestamp": "02/03/2018 02:43:36",
+    "features": {
+      "Flow Duration": 11698.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 38895.5377,
+      "Flow Pkts/s": 598.3928877,
+      "Fwd Pkts/s": 256.4540947,
+      "Bwd Pkts/s": 341.938793,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00012",
+    "timestamp": "02/03/2018 09:27:28",
+    "features": {
+      "Flow Duration": 49346.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 5836.339318,
+      "Flow Pkts/s": 81.06026831,
+      "Fwd Pkts/s": 40.53013415,
+      "Bwd Pkts/s": 40.53013415,
+      "Pkt Len Mean": 66.4,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00013",
+    "timestamp": "02/03/2018 11:33:10",
+    "features": {
+      "Flow Duration": 11464.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39689.46267,
+      "Flow Pkts/s": 610.6071179,
+      "Fwd Pkts/s": 261.6887648,
+      "Bwd Pkts/s": 348.9183531,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00014",
+    "timestamp": "02/03/2018 11:14:00",
+    "features": {
+      "Flow Duration": 18002.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 25274.96945,
+      "Flow Pkts/s": 388.8456838,
+      "Fwd Pkts/s": 166.6481502,
+      "Bwd Pkts/s": 222.1975336,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00015",
+    "timestamp": "02/03/2018 12:22:25",
+    "features": {
+      "Flow Duration": 55873417.0,
+      "Tot Fwd Pkts": 48.0,
+      "Tot Bwd Pkts": 107.0,
+      "Flow Byts/s": 2508.760114,
+      "Flow Pkts/s": 2.774127811,
+      "Fwd Pkts/s": 0.859084741,
+      "Bwd Pkts/s": 1.91504307,
+      "Pkt Len Mean": 898.5448718,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 123621.8,
+      "Idle Mean": 9873353.8
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00016",
+    "timestamp": "02/03/2018 12:44:06",
+    "features": {
+      "Flow Duration": 137.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 14598.54015,
+      "Fwd Pkts/s": 14598.54015,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00017",
+    "timestamp": "02/03/2018 12:38:20",
+    "features": {
+      "Flow Duration": 35.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 57142.85714,
+      "Fwd Pkts/s": 57142.85714,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00018",
+    "timestamp": "02/03/2018 03:42:37",
+    "features": {
+      "Flow Duration": 11275.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40354.76718,
+      "Flow Pkts/s": 620.8425721,
+      "Fwd Pkts/s": 266.075388,
+      "Bwd Pkts/s": 354.767184,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00019",
+    "timestamp": "02/03/2018 01:44:08",
+    "features": {
+      "Flow Duration": 115248462.0,
+      "Tot Fwd Pkts": 22.0,
+      "Tot Bwd Pkts": 58.0,
+      "Flow Byts/s": 553.2741947,
+      "Flow Pkts/s": 0.69415243,
+      "Fwd Pkts/s": 0.190891918,
+      "Bwd Pkts/s": 0.503260512,
+      "Pkt Len Mean": 787.2098765,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 45529.09091,
+      "Idle Mean": 10000000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00020",
+    "timestamp": "02/03/2018 11:12:45",
+    "features": {
+      "Flow Duration": 471.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4246.284501,
+      "Fwd Pkts/s": 4246.284501,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00021",
+    "timestamp": "02/03/2018 03:17:36",
+    "features": {
+      "Flow Duration": 178.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 11235.95506,
+      "Fwd Pkts/s": 11235.95506,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00022",
+    "timestamp": "02/03/2018 03:32:28",
+    "features": {
+      "Flow Duration": 10054.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 45255.61965,
+      "Flow Pkts/s": 696.2403024,
+      "Fwd Pkts/s": 298.388701,
+      "Bwd Pkts/s": 397.8516014,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00023",
+    "timestamp": "02/03/2018 12:59:42",
+    "features": {
+      "Flow Duration": 420.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 233333.3333,
+      "Flow Pkts/s": 4761.904762,
+      "Fwd Pkts/s": 2380.952381,
+      "Bwd Pkts/s": 2380.952381,
+      "Pkt Len Mean": 46.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00024",
+    "timestamp": "02/03/2018 09:18:53",
+    "features": {
+      "Flow Duration": 19919.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 6225.212109,
+      "Flow Pkts/s": 100.4066469,
+      "Fwd Pkts/s": 50.20332346,
+      "Bwd Pkts/s": 50.20332346,
+      "Pkt Len Mean": 52.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00025",
+    "timestamp": "02/03/2018 12:02:09",
+    "features": {
+      "Flow Duration": 550.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3636.363636,
+      "Fwd Pkts/s": 3636.363636,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00026",
+    "timestamp": "02/03/2018 11:12:48",
+    "features": {
+      "Flow Duration": 18105.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 25131.17923,
+      "Flow Pkts/s": 386.6335267,
+      "Fwd Pkts/s": 165.7000829,
+      "Bwd Pkts/s": 220.9334438,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00027",
+    "timestamp": "02/03/2018 09:13:22",
+    "features": {
+      "Flow Duration": 86434724.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.023138849,
+      "Fwd Pkts/s": 0.023138849,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 86400000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00028",
+    "timestamp": "02/03/2018 01:52:14",
+    "features": {
+      "Flow Duration": 117686348.0,
+      "Tot Fwd Pkts": 15.0,
+      "Tot Bwd Pkts": 26.0,
+      "Flow Byts/s": 161.8114618,
+      "Flow Pkts/s": 0.348383654,
+      "Fwd Pkts/s": 0.127457435,
+      "Bwd Pkts/s": 0.22092622,
+      "Pkt Len Mean": 453.4047619,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 115395.0,
+      "Idle Mean": 58700000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00029",
+    "timestamp": "02/03/2018 10:52:44",
+    "features": {
+      "Flow Duration": 51047.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 4936.62703,
+      "Flow Pkts/s": 78.35915921,
+      "Fwd Pkts/s": 39.1795796,
+      "Bwd Pkts/s": 39.1795796,
+      "Pkt Len Mean": 56.6,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00030",
+    "timestamp": "02/03/2018 03:29:30",
+    "features": {
+      "Flow Duration": 441.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4535.147392,
+      "Fwd Pkts/s": 4535.147392,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00031",
+    "timestamp": "02/03/2018 11:06:03",
+    "features": {
+      "Flow Duration": 403.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4962.779156,
+      "Fwd Pkts/s": 4962.779156,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00032",
+    "timestamp": "02/03/2018 01:45:47",
+    "features": {
+      "Flow Duration": 484.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4132.231405,
+      "Fwd Pkts/s": 4132.231405,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00033",
+    "timestamp": "02/03/2018 08:56:20",
+    "features": {
+      "Flow Duration": 116036047.0,
+      "Tot Fwd Pkts": 16.0,
+      "Tot Bwd Pkts": 14.0,
+      "Flow Byts/s": 11.82391193,
+      "Flow Pkts/s": 0.258540348,
+      "Fwd Pkts/s": 0.137888186,
+      "Bwd Pkts/s": 0.120652163,
+      "Pkt Len Mean": 44.25806452,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 33174.0,
+      "Idle Mean": 9992367.273
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00034",
+    "timestamp": "02/03/2018 02:05:18",
+    "features": {
+      "Flow Duration": 1669304.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1622.832031,
+      "Flow Pkts/s": 8.9857809,
+      "Fwd Pkts/s": 4.79241648,
+      "Bwd Pkts/s": 4.19336442,
+      "Pkt Len Mean": 169.3125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00035",
+    "timestamp": "02/03/2018 11:22:51",
+    "features": {
+      "Flow Duration": 1664.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 234975.9615,
+      "Flow Pkts/s": 4206.730769,
+      "Fwd Pkts/s": 1802.884615,
+      "Bwd Pkts/s": 2403.846154,
+      "Pkt Len Mean": 48.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00036",
+    "timestamp": "02/03/2018 10:34:02",
+    "features": {
+      "Flow Duration": 994.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 652917.505,
+      "Flow Pkts/s": 7042.253521,
+      "Fwd Pkts/s": 3018.108652,
+      "Bwd Pkts/s": 4024.144869,
+      "Pkt Len Mean": 81.125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00037",
+    "timestamp": "02/03/2018 11:28:01",
+    "features": {
+      "Flow Duration": 506.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3952.56917,
+      "Fwd Pkts/s": 3952.56917,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00038",
+    "timestamp": "02/03/2018 09:51:48",
+    "features": {
+      "Flow Duration": 110290407.0,
+      "Tot Fwd Pkts": 25.0,
+      "Tot Bwd Pkts": 68.0,
+      "Flow Byts/s": 603.9872534,
+      "Flow Pkts/s": 0.843228369,
+      "Fwd Pkts/s": 0.226674293,
+      "Bwd Pkts/s": 0.616554076,
+      "Pkt Len Mean": 708.6702128,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 30475.09091,
+      "Idle Mean": 9995841.273
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00039",
+    "timestamp": "02/03/2018 10:07:23",
+    "features": {
+      "Flow Duration": 4143612.0,
+      "Tot Fwd Pkts": 11.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 658.6041357,
+      "Flow Pkts/s": 4.344036073,
+      "Fwd Pkts/s": 2.654688711,
+      "Bwd Pkts/s": 1.689347362,
+      "Pkt Len Mean": 143.6315789,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00040",
+    "timestamp": "02/03/2018 10:54:36",
+    "features": {
+      "Flow Duration": 528.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3787.878788,
+      "Fwd Pkts/s": 3787.878788,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00041",
+    "timestamp": "02/03/2018 11:53:16",
+    "features": {
+      "Flow Duration": 11.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 181818.1818,
+      "Fwd Pkts/s": 181818.1818,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00042",
+    "timestamp": "02/03/2018 11:32:09",
+    "features": {
+      "Flow Duration": 12611.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 36079.61304,
+      "Flow Pkts/s": 555.0709698,
+      "Fwd Pkts/s": 237.8875585,
+      "Bwd Pkts/s": 317.1834113,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00043",
+    "timestamp": "02/03/2018 02:40:17",
+    "features": {
+      "Flow Duration": 47844.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 27088.03612,
+      "Flow Pkts/s": 146.3088371,
+      "Fwd Pkts/s": 62.70378731,
+      "Bwd Pkts/s": 83.60504975,
+      "Pkt Len Mean": 162.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00044",
+    "timestamp": "02/03/2018 10:03:16",
+    "features": {
+      "Flow Duration": 1687.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 1185.536455,
+      "Fwd Pkts/s": 1185.536455,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00045",
+    "timestamp": "02/03/2018 10:08:06",
+    "features": {
+      "Flow Duration": 11521.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 17186.00816,
+      "Flow Pkts/s": 173.596042,
+      "Fwd Pkts/s": 86.79802101,
+      "Bwd Pkts/s": 86.79802101,
+      "Pkt Len Mean": 77.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00046",
+    "timestamp": "02/03/2018 10:48:27",
+    "features": {
+      "Flow Duration": 116972906.0,
+      "Tot Fwd Pkts": 15.0,
+      "Tot Bwd Pkts": 17.0,
+      "Flow Byts/s": 53.73039121,
+      "Flow Pkts/s": 0.273567624,
+      "Fwd Pkts/s": 0.128234824,
+      "Bwd Pkts/s": 0.1453328,
+      "Pkt Len Mean": 190.4545455,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 92059.0,
+      "Idle Mean": 58400000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00047",
+    "timestamp": "02/03/2018 04:28:07",
+    "features": {
+      "Flow Duration": 3909526.0,
+      "Tot Fwd Pkts": 14.0,
+      "Tot Bwd Pkts": 8.0,
+      "Flow Byts/s": 810.0726277,
+      "Flow Pkts/s": 5.627280647,
+      "Fwd Pkts/s": 3.580996776,
+      "Bwd Pkts/s": 2.046283872,
+      "Pkt Len Mean": 137.6956522,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00048",
+    "timestamp": "02/03/2018 10:45:08",
+    "features": {
+      "Flow Duration": 10846.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 41950.94966,
+      "Flow Pkts/s": 645.3992255,
+      "Fwd Pkts/s": 276.5996681,
+      "Bwd Pkts/s": 368.7995574,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00049",
+    "timestamp": "02/03/2018 11:13:31",
+    "features": {
+      "Flow Duration": 10345.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 43982.60029,
+      "Flow Pkts/s": 676.6553891,
+      "Fwd Pkts/s": 289.9951667,
+      "Bwd Pkts/s": 386.6602223,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00050",
+    "timestamp": "02/03/2018 12:25:09",
+    "features": {
+      "Flow Duration": 9484.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 47975.53775,
+      "Flow Pkts/s": 738.0851961,
+      "Fwd Pkts/s": 316.3222269,
+      "Bwd Pkts/s": 421.7629692,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00051",
+    "timestamp": "02/03/2018 12:26:27",
+    "features": {
+      "Flow Duration": 700.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 2857.142857,
+      "Fwd Pkts/s": 2857.142857,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00052",
+    "timestamp": "02/03/2018 03:42:16",
+    "features": {
+      "Flow Duration": 11024.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 41273.58491,
+      "Flow Pkts/s": 634.9782293,
+      "Fwd Pkts/s": 272.1335269,
+      "Bwd Pkts/s": 362.8447025,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00053",
+    "timestamp": "02/03/2018 04:15:20",
+    "features": {
+      "Flow Duration": 86273370.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.023182124,
+      "Fwd Pkts/s": 0.023182124,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 86300000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00054",
+    "timestamp": "02/03/2018 12:18:10",
+    "features": {
+      "Flow Duration": 10851.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 41931.61921,
+      "Flow Pkts/s": 645.1018339,
+      "Fwd Pkts/s": 276.4722145,
+      "Bwd Pkts/s": 368.6296194,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00055",
+    "timestamp": "02/03/2018 05:22:39",
+    "features": {
+      "Flow Duration": 242031.0,
+      "Tot Fwd Pkts": 5.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 2251.777665,
+      "Flow Pkts/s": 37.18531924,
+      "Fwd Pkts/s": 20.65851069,
+      "Bwd Pkts/s": 16.52680855,
+      "Pkt Len Mean": 54.5,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00056",
+    "timestamp": "02/03/2018 10:26:14",
+    "features": {
+      "Flow Duration": 99.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 313131.3131,
+      "Flow Pkts/s": 30303.0303,
+      "Fwd Pkts/s": 20202.0202,
+      "Bwd Pkts/s": 10101.0101,
+      "Pkt Len Mean": 15.5,
+      "SYN Flag Cnt": 1.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00057",
+    "timestamp": "02/03/2018 08:51:53",
+    "features": {
+      "Flow Duration": 197185.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 15.21413901,
+      "Fwd Pkts/s": 15.21413901,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00058",
+    "timestamp": "02/03/2018 11:48:16",
+    "features": {
+      "Flow Duration": 494.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4048.582996,
+      "Fwd Pkts/s": 4048.582996,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00059",
+    "timestamp": "02/03/2018 03:42:52",
+    "features": {
+      "Flow Duration": 824.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 2427.184466,
+      "Fwd Pkts/s": 2427.184466,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00060",
+    "timestamp": "02/03/2018 05:25:53",
+    "features": {
+      "Flow Duration": 2092382.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1302.343454,
+      "Flow Pkts/s": 7.168863047,
+      "Fwd Pkts/s": 3.823393625,
+      "Bwd Pkts/s": 3.345469422,
+      "Pkt Len Mean": 170.3125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00061",
+    "timestamp": "02/03/2018 09:17:44",
+    "features": {
+      "Flow Duration": 1316754.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 2060.369667,
+      "Flow Pkts/s": 11.39164947,
+      "Fwd Pkts/s": 6.075546381,
+      "Bwd Pkts/s": 5.316103084,
+      "Pkt Len Mean": 169.5625,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00062",
+    "timestamp": "02/03/2018 02:44:54",
+    "features": {
+      "Flow Duration": 2575193.0,
+      "Tot Fwd Pkts": 9.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1058.173116,
+      "Flow Pkts/s": 6.21312655,
+      "Fwd Pkts/s": 3.494883684,
+      "Bwd Pkts/s": 2.718242866,
+      "Pkt Len Mean": 160.2941176,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00063",
+    "timestamp": "02/03/2018 11:21:16",
+    "features": {
+      "Flow Duration": 501.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3992.015968,
+      "Fwd Pkts/s": 3992.015968,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00064",
+    "timestamp": "02/03/2018 04:34:52",
+    "features": {
+      "Flow Duration": 883.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 185730.4643,
+      "Flow Pkts/s": 2265.005663,
+      "Fwd Pkts/s": 1132.502831,
+      "Bwd Pkts/s": 1132.502831,
+      "Pkt Len Mean": 72.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00065",
+    "timestamp": "02/03/2018 04:21:57",
+    "features": {
+      "Flow Duration": 4149208.0,
+      "Tot Fwd Pkts": 14.0,
+      "Tot Bwd Pkts": 8.0,
+      "Flow Byts/s": 764.2422361,
+      "Flow Pkts/s": 5.302216712,
+      "Fwd Pkts/s": 3.374137908,
+      "Bwd Pkts/s": 1.928078804,
+      "Pkt Len Mean": 137.8695652,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00066",
+    "timestamp": "02/03/2018 11:28:59",
+    "features": {
+      "Flow Duration": 1477.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 108327.6913,
+      "Flow Pkts/s": 1354.096141,
+      "Fwd Pkts/s": 677.0480704,
+      "Bwd Pkts/s": 677.0480704,
+      "Pkt Len Mean": 70.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00067",
+    "timestamp": "02/03/2018 03:48:42",
+    "features": {
+      "Flow Duration": 18086.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 5418.555789,
+      "Flow Pkts/s": 110.5827712,
+      "Fwd Pkts/s": 55.2913856,
+      "Bwd Pkts/s": 55.2913856,
+      "Pkt Len Mean": 43.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00068",
+    "timestamp": "02/03/2018 10:30:54",
+    "features": {
+      "Flow Duration": 500.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4000.0,
+      "Fwd Pkts/s": 4000.0,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00069",
+    "timestamp": "02/03/2018 11:45:06",
+    "features": {
+      "Flow Duration": 468.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4273.504274,
+      "Fwd Pkts/s": 4273.504274,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00070",
+    "timestamp": "02/03/2018 01:15:11",
+    "features": {
+      "Flow Duration": 694.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 2881.84438,
+      "Fwd Pkts/s": 2881.84438,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00071",
+    "timestamp": "02/03/2018 08:51:45",
+    "features": {
+      "Flow Duration": 1529628.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 98.06305847,
+      "Flow Pkts/s": 1.961261169,
+      "Fwd Pkts/s": 1.961261169,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 50.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00072",
+    "timestamp": "02/03/2018 11:21:22",
+    "features": {
+      "Flow Duration": 492.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4065.04065,
+      "Fwd Pkts/s": 4065.04065,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00073",
+    "timestamp": "02/03/2018 11:22:24",
+    "features": {
+      "Flow Duration": 657.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3044.14003,
+      "Fwd Pkts/s": 3044.14003,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00074",
+    "timestamp": "02/03/2018 01:25:30",
+    "features": {
+      "Flow Duration": 11995.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 37932.47186,
+      "Flow Pkts/s": 583.5764902,
+      "Fwd Pkts/s": 250.1042101,
+      "Bwd Pkts/s": 333.4722801,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00075",
+    "timestamp": "02/03/2018 01:37:50",
+    "features": {
+      "Flow Duration": 85985485.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.02325974,
+      "Fwd Pkts/s": 0.02325974,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 86000000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00076",
+    "timestamp": "02/03/2018 04:10:01",
+    "features": {
+      "Flow Duration": 341.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 310850.4399,
+      "Flow Pkts/s": 5865.102639,
+      "Fwd Pkts/s": 2932.55132,
+      "Bwd Pkts/s": 2932.55132,
+      "Pkt Len Mean": 50.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00077",
+    "timestamp": "02/03/2018 02:36:33",
+    "features": {
+      "Flow Duration": 11387.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39957.84667,
+      "Flow Pkts/s": 614.7361026,
+      "Fwd Pkts/s": 263.4583297,
+      "Bwd Pkts/s": 351.2777729,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00078",
+    "timestamp": "02/03/2018 01:39:25",
+    "features": {
+      "Flow Duration": 597.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3350.083752,
+      "Fwd Pkts/s": 3350.083752,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00079",
+    "timestamp": "02/03/2018 12:20:22",
+    "features": {
+      "Flow Duration": 371.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 318059.2992,
+      "Flow Pkts/s": 5390.83558,
+      "Fwd Pkts/s": 2695.41779,
+      "Bwd Pkts/s": 2695.41779,
+      "Pkt Len Mean": 56.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00080",
+    "timestamp": "02/03/2018 09:09:19",
+    "features": {
+      "Flow Duration": 1586772.0,
+      "Tot Fwd Pkts": 9.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1719.843809,
+      "Flow Pkts/s": 10.08336421,
+      "Fwd Pkts/s": 5.67189237,
+      "Bwd Pkts/s": 4.411471843,
+      "Pkt Len Mean": 160.5294118,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00081",
+    "timestamp": "02/03/2018 02:45:30",
+    "features": {
+      "Flow Duration": 550.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3636.363636,
+      "Fwd Pkts/s": 3636.363636,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00082",
+    "timestamp": "02/03/2018 11:57:26",
+    "features": {
+      "Flow Duration": 320.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 331250.0,
+      "Flow Pkts/s": 6250.0,
+      "Fwd Pkts/s": 3125.0,
+      "Bwd Pkts/s": 3125.0,
+      "Pkt Len Mean": 50.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00083",
+    "timestamp": "02/03/2018 03:10:18",
+    "features": {
+      "Flow Duration": 554.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3610.108303,
+      "Fwd Pkts/s": 3610.108303,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00084",
+    "timestamp": "02/03/2018 03:14:41",
+    "features": {
+      "Flow Duration": 10213.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 44551.06237,
+      "Flow Pkts/s": 685.4009596,
+      "Fwd Pkts/s": 293.7432684,
+      "Bwd Pkts/s": 391.6576912,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00085",
+    "timestamp": "02/03/2018 03:47:14",
+    "features": {
+      "Flow Duration": 469.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4264.392324,
+      "Fwd Pkts/s": 4264.392324,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00086",
+    "timestamp": "02/03/2018 02:31:11",
+    "features": {
+      "Flow Duration": 658.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3039.513678,
+      "Fwd Pkts/s": 3039.513678,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00087",
+    "timestamp": "02/03/2018 04:58:42",
+    "features": {
+      "Flow Duration": 3865012.0,
+      "Tot Fwd Pkts": 14.0,
+      "Tot Bwd Pkts": 8.0,
+      "Flow Byts/s": 820.6960289,
+      "Flow Pkts/s": 5.692090995,
+      "Fwd Pkts/s": 3.622239724,
+      "Bwd Pkts/s": 2.069851271,
+      "Pkt Len Mean": 137.9130435,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00088",
+    "timestamp": "02/03/2018 03:31:13",
+    "features": {
+      "Flow Duration": 11109.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40957.78198,
+      "Flow Pkts/s": 630.1197227,
+      "Fwd Pkts/s": 270.0513097,
+      "Bwd Pkts/s": 360.068413,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00089",
+    "timestamp": "02/03/2018 09:25:34",
+    "features": {
+      "Flow Duration": 1064.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 138157.8947,
+      "Flow Pkts/s": 1879.699248,
+      "Fwd Pkts/s": 939.8496241,
+      "Bwd Pkts/s": 939.8496241,
+      "Pkt Len Mean": 63.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00090",
+    "timestamp": "02/03/2018 10:14:34",
+    "features": {
+      "Flow Duration": 4352176.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 14.24574741,
+      "Flow Pkts/s": 0.459540239,
+      "Fwd Pkts/s": 0.459540239,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 31.0,
+      "SYN Flag Cnt": 1.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00091",
+    "timestamp": "02/03/2018 09:22:51",
+    "features": {
+      "Flow Duration": 812.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 799261.0837,
+      "Flow Pkts/s": 8620.689655,
+      "Fwd Pkts/s": 3694.581281,
+      "Bwd Pkts/s": 4926.108374,
+      "Pkt Len Mean": 81.125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00092",
+    "timestamp": "02/03/2018 02:56:51",
+    "features": {
+      "Flow Duration": 1.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 31000000.0,
+      "Flow Pkts/s": 2000000.0,
+      "Fwd Pkts/s": 1000000.0,
+      "Bwd Pkts/s": 1000000.0,
+      "Pkt Len Mean": 20.66666667,
+      "SYN Flag Cnt": 1.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00093",
+    "timestamp": "02/03/2018 12:23:50",
+    "features": {
+      "Flow Duration": 711.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 2812.939522,
+      "Fwd Pkts/s": 2812.939522,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00094",
+    "timestamp": "02/03/2018 03:32:38",
+    "features": {
+      "Flow Duration": 492.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4065.04065,
+      "Fwd Pkts/s": 4065.04065,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00095",
+    "timestamp": "02/03/2018 03:27:57",
+    "features": {
+      "Flow Duration": 10467.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 43469.95319,
+      "Flow Pkts/s": 668.7685106,
+      "Fwd Pkts/s": 286.615076,
+      "Bwd Pkts/s": 382.1534346,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00096",
+    "timestamp": "02/03/2018 12:11:17",
+    "features": {
+      "Flow Duration": 1071.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 28944.9113,
+      "Flow Pkts/s": 3734.827264,
+      "Fwd Pkts/s": 2801.120448,
+      "Bwd Pkts/s": 933.7068161,
+      "Pkt Len Mean": 6.2,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00097",
+    "timestamp": "02/03/2018 11:35:45",
+    "features": {
+      "Flow Duration": 80.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 25000.0,
+      "Fwd Pkts/s": 25000.0,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00098",
+    "timestamp": "02/03/2018 04:32:41",
+    "features": {
+      "Flow Duration": 3454885.0,
+      "Tot Fwd Pkts": 12.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 789.8960457,
+      "Flow Pkts/s": 5.499459461,
+      "Fwd Pkts/s": 3.473342817,
+      "Bwd Pkts/s": 2.026116644,
+      "Pkt Len Mean": 136.45,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00099",
+    "timestamp": "02/03/2018 01:09:36",
+    "features": {
+      "Flow Duration": 11649.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39059.14671,
+      "Flow Pkts/s": 600.9099494,
+      "Fwd Pkts/s": 257.5328354,
+      "Bwd Pkts/s": 343.3771139,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00100",
+    "timestamp": "02/03/2018 02:19:34",
+    "features": {
+      "Flow Duration": 21845.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 20828.56489,
+      "Flow Pkts/s": 320.4394598,
+      "Fwd Pkts/s": 137.3311971,
+      "Bwd Pkts/s": 183.1082628,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00101",
+    "timestamp": "02/03/2018 11:13:43",
+    "features": {
+      "Flow Duration": 10469.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 43461.64868,
+      "Flow Pkts/s": 668.6407489,
+      "Fwd Pkts/s": 286.5603209,
+      "Bwd Pkts/s": 382.0804279,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00102",
+    "timestamp": "02/03/2018 12:23:41",
+    "features": {
+      "Flow Duration": 10810.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 42090.6568,
+      "Flow Pkts/s": 647.5485661,
+      "Fwd Pkts/s": 277.5208141,
+      "Bwd Pkts/s": 370.0277521,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00103",
+    "timestamp": "02/03/2018 03:48:13",
+    "features": {
+      "Flow Duration": 499.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4008.016032,
+      "Fwd Pkts/s": 4008.016032,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00104",
+    "timestamp": "02/03/2018 01:06:43",
+    "features": {
+      "Flow Duration": 2168824.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1256.441279,
+      "Flow Pkts/s": 6.916190525,
+      "Fwd Pkts/s": 3.688634947,
+      "Bwd Pkts/s": 3.227555579,
+      "Pkt Len Mean": 170.3125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00105",
+    "timestamp": "02/03/2018 11:55:34",
+    "features": {
+      "Flow Duration": 8961.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 50775.58308,
+      "Flow Pkts/s": 781.1628166,
+      "Fwd Pkts/s": 334.7840643,
+      "Bwd Pkts/s": 446.3787524,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00106",
+    "timestamp": "02/03/2018 05:28:56",
+    "features": {
+      "Flow Duration": 951.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 200841.2198,
+      "Flow Pkts/s": 2103.049422,
+      "Fwd Pkts/s": 1051.524711,
+      "Bwd Pkts/s": 1051.524711,
+      "Pkt Len Mean": 84.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00107",
+    "timestamp": "02/03/2018 03:44:17",
+    "features": {
+      "Flow Duration": 528.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3787.878788,
+      "Fwd Pkts/s": 3787.878788,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00108",
+    "timestamp": "02/03/2018 12:48:39",
+    "features": {
+      "Flow Duration": 611.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3273.322422,
+      "Fwd Pkts/s": 3273.322422,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00109",
+    "timestamp": "02/03/2018 03:22:50",
+    "features": {
+      "Flow Duration": 10345.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 43982.60029,
+      "Flow Pkts/s": 676.6553891,
+      "Fwd Pkts/s": 289.9951667,
+      "Bwd Pkts/s": 386.6602223,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00110",
+    "timestamp": "02/03/2018 11:51:33",
+    "features": {
+      "Flow Duration": 163846.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 24.41316846,
+      "Fwd Pkts/s": 18.30987635,
+      "Bwd Pkts/s": 6.103292116,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00111",
+    "timestamp": "02/03/2018 02:08:14",
+    "features": {
+      "Flow Duration": 2621158.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 8.0,
+      "Flow Byts/s": 1053.732739,
+      "Flow Pkts/s": 6.104172278,
+      "Fwd Pkts/s": 3.052086139,
+      "Bwd Pkts/s": 3.052086139,
+      "Pkt Len Mean": 162.4705882,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00112",
+    "timestamp": "02/03/2018 03:34:37",
+    "features": {
+      "Flow Duration": 14128.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 66.0,
+      "Flow Byts/s": 9130.804077,
+      "Flow Pkts/s": 4813.137033,
+      "Fwd Pkts/s": 141.5628539,
+      "Bwd Pkts/s": 4671.574179,
+      "Pkt Len Mean": 1.869565217,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00113",
+    "timestamp": "02/03/2018 10:59:35",
+    "features": {
+      "Flow Duration": 65.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 30769.23077,
+      "Fwd Pkts/s": 30769.23077,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00114",
+    "timestamp": "02/03/2018 10:48:14",
+    "features": {
+      "Flow Duration": 105090.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 3045.00904,
+      "Flow Pkts/s": 38.062613,
+      "Fwd Pkts/s": 19.0313065,
+      "Bwd Pkts/s": 19.0313065,
+      "Pkt Len Mean": 72.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00115",
+    "timestamp": "02/03/2018 11:07:43",
+    "features": {
+      "Flow Duration": 485.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4123.71134,
+      "Fwd Pkts/s": 4123.71134,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00116",
+    "timestamp": "02/03/2018 01:39:17",
+    "features": {
+      "Flow Duration": 526.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3802.281369,
+      "Fwd Pkts/s": 3802.281369,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00117",
+    "timestamp": "02/03/2018 03:53:13",
+    "features": {
+      "Flow Duration": 446.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4484.304933,
+      "Fwd Pkts/s": 4484.304933,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00118",
+    "timestamp": "02/03/2018 01:03:33",
+    "features": {
+      "Flow Duration": 532.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3759.398496,
+      "Fwd Pkts/s": 3759.398496,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00119",
+    "timestamp": "02/03/2018 10:48:31",
+    "features": {
+      "Flow Duration": 30083.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 16953.09643,
+      "Flow Pkts/s": 132.9654622,
+      "Fwd Pkts/s": 66.48273111,
+      "Bwd Pkts/s": 66.48273111,
+      "Pkt Len Mean": 108.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00120",
+    "timestamp": "02/03/2018 10:51:36",
+    "features": {
+      "Flow Duration": 488.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4098.360656,
+      "Fwd Pkts/s": 4098.360656,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00121",
+    "timestamp": "02/03/2018 02:23:55",
+    "features": {
+      "Flow Duration": 10880.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 41819.85294,
+      "Flow Pkts/s": 643.3823529,
+      "Fwd Pkts/s": 275.7352941,
+      "Bwd Pkts/s": 367.6470588,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00122",
+    "timestamp": "02/03/2018 03:17:04",
+    "features": {
+      "Flow Duration": 649.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3081.664099,
+      "Fwd Pkts/s": 3081.664099,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00123",
+    "timestamp": "02/03/2018 04:01:55",
+    "features": {
+      "Flow Duration": 86386361.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.023151803,
+      "Fwd Pkts/s": 0.023151803,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 86400000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00124",
+    "timestamp": "02/03/2018 10:47:16",
+    "features": {
+      "Flow Duration": 468.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4273.504274,
+      "Fwd Pkts/s": 4273.504274,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00125",
+    "timestamp": "02/03/2018 10:30:15",
+    "features": {
+      "Flow Duration": 1943.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 65877.50901,
+      "Flow Pkts/s": 1029.336078,
+      "Fwd Pkts/s": 514.6680391,
+      "Bwd Pkts/s": 514.6680391,
+      "Pkt Len Mean": 55.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00126",
+    "timestamp": "02/03/2018 01:14:16",
+    "features": {
+      "Flow Duration": 610.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3278.688525,
+      "Fwd Pkts/s": 3278.688525,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00127",
+    "timestamp": "02/03/2018 11:43:15",
+    "features": {
+      "Flow Duration": 2587990.0,
+      "Tot Fwd Pkts": 9.0,
+      "Tot Bwd Pkts": 9.0,
+      "Flow Byts/s": 1127.515949,
+      "Flow Pkts/s": 6.955204618,
+      "Fwd Pkts/s": 3.477602309,
+      "Bwd Pkts/s": 3.477602309,
+      "Pkt Len Mean": 153.5789474,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00128",
+    "timestamp": "02/03/2018 01:07:15",
+    "features": {
+      "Flow Duration": 4079457.0,
+      "Tot Fwd Pkts": 15.0,
+      "Tot Bwd Pkts": 8.0,
+      "Flow Byts/s": 777.0642024,
+      "Flow Pkts/s": 5.638005254,
+      "Fwd Pkts/s": 3.676959948,
+      "Bwd Pkts/s": 1.961045306,
+      "Pkt Len Mean": 132.0833333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00129",
+    "timestamp": "02/03/2018 10:21:05",
+    "features": {
+      "Flow Duration": 894.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 203579.4183,
+      "Flow Pkts/s": 2237.136465,
+      "Fwd Pkts/s": 1118.568233,
+      "Bwd Pkts/s": 1118.568233,
+      "Pkt Len Mean": 77.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00130",
+    "timestamp": "02/03/2018 02:19:20",
+    "features": {
+      "Flow Duration": 3159611.0,
+      "Tot Fwd Pkts": 10.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 863.7139192,
+      "Flow Pkts/s": 5.380409171,
+      "Fwd Pkts/s": 3.164946571,
+      "Bwd Pkts/s": 2.2154626,
+      "Pkt Len Mean": 151.6111111,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00131",
+    "timestamp": "02/03/2018 03:46:38",
+    "features": {
+      "Flow Duration": 499.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4008.016032,
+      "Fwd Pkts/s": 4008.016032,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00132",
+    "timestamp": "02/03/2018 09:46:56",
+    "features": {
+      "Flow Duration": 83065.0,
+      "Tot Fwd Pkts": 5.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 60.19382411,
+      "Fwd Pkts/s": 60.19382411,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00133",
+    "timestamp": "02/03/2018 03:04:10",
+    "features": {
+      "Flow Duration": 967.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 671147.88,
+      "Flow Pkts/s": 7238.883144,
+      "Fwd Pkts/s": 3102.37849,
+      "Bwd Pkts/s": 4136.504654,
+      "Pkt Len Mean": 81.125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00134",
+    "timestamp": "02/03/2018 11:11:39",
+    "features": {
+      "Flow Duration": 9408.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 48363.09524,
+      "Flow Pkts/s": 744.047619,
+      "Fwd Pkts/s": 318.877551,
+      "Bwd Pkts/s": 425.170068,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00135",
+    "timestamp": "02/03/2018 10:35:22",
+    "features": {
+      "Flow Duration": 495.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4040.40404,
+      "Fwd Pkts/s": 4040.40404,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00136",
+    "timestamp": "02/03/2018 04:41:22",
+    "features": {
+      "Flow Duration": 1665672.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1635.976351,
+      "Flow Pkts/s": 9.005374407,
+      "Fwd Pkts/s": 4.802866351,
+      "Bwd Pkts/s": 4.202508057,
+      "Pkt Len Mean": 170.3125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00137",
+    "timestamp": "02/03/2018 03:23:01",
+    "features": {
+      "Flow Duration": 54315433.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.036821947,
+      "Fwd Pkts/s": 0.036821947,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00138",
+    "timestamp": "02/03/2018 11:01:53",
+    "features": {
+      "Flow Duration": 116968844.0,
+      "Tot Fwd Pkts": 16.0,
+      "Tot Bwd Pkts": 15.0,
+      "Flow Byts/s": 57.28875973,
+      "Flow Pkts/s": 0.265027839,
+      "Fwd Pkts/s": 0.136788562,
+      "Bwd Pkts/s": 0.128239277,
+      "Pkt Len Mean": 209.40625,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 220364.0,
+      "Idle Mean": 58200000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00139",
+    "timestamp": "02/03/2018 11:51:24",
+    "features": {
+      "Flow Duration": 607.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3294.892916,
+      "Fwd Pkts/s": 3294.892916,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00140",
+    "timestamp": "02/03/2018 11:09:08",
+    "features": {
+      "Flow Duration": 630.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3174.603175,
+      "Fwd Pkts/s": 3174.603175,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00141",
+    "timestamp": "02/03/2018 10:43:55",
+    "features": {
+      "Flow Duration": 1.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 2000000.0,
+      "Fwd Pkts/s": 2000000.0,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00142",
+    "timestamp": "02/03/2018 03:33:50",
+    "features": {
+      "Flow Duration": 461.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4338.394794,
+      "Fwd Pkts/s": 4338.394794,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00143",
+    "timestamp": "02/03/2018 11:22:46",
+    "features": {
+      "Flow Duration": 445.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4494.382022,
+      "Fwd Pkts/s": 4494.382022,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00144",
+    "timestamp": "02/03/2018 03:48:36",
+    "features": {
+      "Flow Duration": 11704.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 38875.59809,
+      "Flow Pkts/s": 598.0861244,
+      "Fwd Pkts/s": 256.3226247,
+      "Bwd Pkts/s": 341.7634997,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00145",
+    "timestamp": "02/03/2018 04:10:16",
+    "features": {
+      "Flow Duration": 42.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 47619.04762,
+      "Fwd Pkts/s": 47619.04762,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00146",
+    "timestamp": "02/03/2018 03:50:49",
+    "features": {
+      "Flow Duration": 55441.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 8206.922675,
+      "Flow Pkts/s": 126.2603488,
+      "Fwd Pkts/s": 54.11157807,
+      "Bwd Pkts/s": 72.14877077,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00147",
+    "timestamp": "02/03/2018 02:12:51",
+    "features": {
+      "Flow Duration": 11455.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39720.64601,
+      "Flow Pkts/s": 611.0868616,
+      "Fwd Pkts/s": 261.8943693,
+      "Bwd Pkts/s": 349.1924924,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00148",
+    "timestamp": "02/03/2018 02:01:15",
+    "features": {
+      "Flow Duration": 82888.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 48.25789017,
+      "Fwd Pkts/s": 36.19341762,
+      "Bwd Pkts/s": 12.06447254,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00149",
+    "timestamp": "02/03/2018 11:27:14",
+    "features": {
+      "Flow Duration": 11075.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 41083.52144,
+      "Flow Pkts/s": 632.0541761,
+      "Fwd Pkts/s": 270.8803612,
+      "Bwd Pkts/s": 361.1738149,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00150",
+    "timestamp": "02/03/2018 11:44:56",
+    "features": {
+      "Flow Duration": 1552.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 108247.4227,
+      "Flow Pkts/s": 1288.659794,
+      "Fwd Pkts/s": 644.3298969,
+      "Bwd Pkts/s": 644.3298969,
+      "Pkt Len Mean": 69.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00151",
+    "timestamp": "02/03/2018 11:52:48",
+    "features": {
+      "Flow Duration": 446.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4484.304933,
+      "Fwd Pkts/s": 4484.304933,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00152",
+    "timestamp": "02/03/2018 02:56:49",
+    "features": {
+      "Flow Duration": 1615267.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1696.933077,
+      "Flow Pkts/s": 9.286390423,
+      "Fwd Pkts/s": 4.952741559,
+      "Bwd Pkts/s": 4.333648864,
+      "Pkt Len Mean": 171.3125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00153",
+    "timestamp": "02/03/2018 05:28:44",
+    "features": {
+      "Flow Duration": 594.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 63973.06397,
+      "Flow Pkts/s": 5050.505051,
+      "Fwd Pkts/s": 3367.003367,
+      "Bwd Pkts/s": 1683.501684,
+      "Pkt Len Mean": 19.0,
+      "SYN Flag Cnt": 1.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00154",
+    "timestamp": "02/03/2018 03:41:41",
+    "features": {
+      "Flow Duration": 1769.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 82532.50424,
+      "Flow Pkts/s": 1130.58225,
+      "Fwd Pkts/s": 565.2911249,
+      "Bwd Pkts/s": 565.2911249,
+      "Pkt Len Mean": 59.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00155",
+    "timestamp": "02/03/2018 02:27:20",
+    "features": {
+      "Flow Duration": 11267.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40383.42061,
+      "Flow Pkts/s": 621.283394,
+      "Fwd Pkts/s": 266.2643117,
+      "Bwd Pkts/s": 355.0190823,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00156",
+    "timestamp": "02/03/2018 12:39:12",
+    "features": {
+      "Flow Duration": 576.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3472.222222,
+      "Fwd Pkts/s": 3472.222222,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00157",
+    "timestamp": "02/03/2018 11:01:56",
+    "features": {
+      "Flow Duration": 1063.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 120413.9229,
+      "Flow Pkts/s": 1881.467545,
+      "Fwd Pkts/s": 940.7337723,
+      "Bwd Pkts/s": 940.7337723,
+      "Pkt Len Mean": 55.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00158",
+    "timestamp": "02/03/2018 11:12:09",
+    "features": {
+      "Flow Duration": 454.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4405.286344,
+      "Fwd Pkts/s": 4405.286344,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00159",
+    "timestamp": "02/03/2018 09:39:24",
+    "features": {
+      "Flow Duration": 1193592.0,
+      "Tot Fwd Pkts": 9.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 2286.375914,
+      "Flow Pkts/s": 13.40491558,
+      "Fwd Pkts/s": 7.540265015,
+      "Bwd Pkts/s": 5.864650567,
+      "Pkt Len Mean": 160.5294118,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00160",
+    "timestamp": "02/03/2018 01:57:42",
+    "features": {
+      "Flow Duration": 98421.0,
+      "Tot Fwd Pkts": 7.0,
+      "Tot Bwd Pkts": 5.0,
+      "Flow Byts/s": 9611.769846,
+      "Flow Pkts/s": 121.9251989,
+      "Fwd Pkts/s": 71.12303269,
+      "Bwd Pkts/s": 50.8021662,
+      "Pkt Len Mean": 72.76923077,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00161",
+    "timestamp": "02/03/2018 05:20:12",
+    "features": {
+      "Flow Duration": 148.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 13513.51351,
+      "Fwd Pkts/s": 13513.51351,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00162",
+    "timestamp": "02/03/2018 09:24:32",
+    "features": {
+      "Flow Duration": 21.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 95238.09524,
+      "Fwd Pkts/s": 47619.04762,
+      "Bwd Pkts/s": 47619.04762,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00163",
+    "timestamp": "02/03/2018 12:33:45",
+    "features": {
+      "Flow Duration": 11418.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39849.36066,
+      "Flow Pkts/s": 613.0670871,
+      "Fwd Pkts/s": 262.7430373,
+      "Bwd Pkts/s": 350.3240497,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00164",
+    "timestamp": "02/03/2018 11:19:58",
+    "features": {
+      "Flow Duration": 10776.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 42223.45954,
+      "Flow Pkts/s": 649.5916852,
+      "Fwd Pkts/s": 278.3964365,
+      "Bwd Pkts/s": 371.1952487,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00165",
+    "timestamp": "02/03/2018 10:34:52",
+    "features": {
+      "Flow Duration": 270.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 385185.1852,
+      "Flow Pkts/s": 7407.407407,
+      "Fwd Pkts/s": 3703.703704,
+      "Bwd Pkts/s": 3703.703704,
+      "Pkt Len Mean": 49.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00166",
+    "timestamp": "02/03/2018 03:40:56",
+    "features": {
+      "Flow Duration": 10272.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 44295.17134,
+      "Flow Pkts/s": 681.4641745,
+      "Fwd Pkts/s": 292.0560748,
+      "Bwd Pkts/s": 389.4080997,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00167",
+    "timestamp": "02/03/2018 05:22:08",
+    "features": {
+      "Flow Duration": 3275312.0,
+      "Tot Fwd Pkts": 9.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 825.2648908,
+      "Flow Pkts/s": 4.8850308,
+      "Fwd Pkts/s": 2.747829825,
+      "Bwd Pkts/s": 2.137200975,
+      "Pkt Len Mean": 159.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00168",
+    "timestamp": "02/03/2018 03:37:28",
+    "features": {
+      "Flow Duration": 11205.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40606.87193,
+      "Flow Pkts/s": 624.7211066,
+      "Fwd Pkts/s": 267.7376171,
+      "Bwd Pkts/s": 356.9834895,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00169",
+    "timestamp": "02/03/2018 11:14:59",
+    "features": {
+      "Flow Duration": 9901.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 45954.95405,
+      "Flow Pkts/s": 706.999293,
+      "Fwd Pkts/s": 302.999697,
+      "Bwd Pkts/s": 403.999596,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00170",
+    "timestamp": "02/03/2018 03:41:02",
+    "features": {
+      "Flow Duration": 477.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4192.872117,
+      "Fwd Pkts/s": 4192.872117,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00171",
+    "timestamp": "02/03/2018 04:06:26",
+    "features": {
+      "Flow Duration": 86004235.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 0.023254669,
+      "Fwd Pkts/s": 0.023254669,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 86000000.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00172",
+    "timestamp": "02/03/2018 03:33:24",
+    "features": {
+      "Flow Duration": 11123.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40906.23033,
+      "Flow Pkts/s": 629.3266205,
+      "Fwd Pkts/s": 269.7114088,
+      "Bwd Pkts/s": 359.6152117,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00173",
+    "timestamp": "02/03/2018 02:37:57",
+    "features": {
+      "Flow Duration": 67421.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 3915.693923,
+      "Flow Pkts/s": 59.32869581,
+      "Fwd Pkts/s": 29.6643479,
+      "Bwd Pkts/s": 29.6643479,
+      "Pkt Len Mean": 60.2,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00174",
+    "timestamp": "02/03/2018 01:30:31",
+    "features": {
+      "Flow Duration": 1082.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 138632.1627,
+      "Flow Pkts/s": 1848.428835,
+      "Fwd Pkts/s": 924.2144177,
+      "Bwd Pkts/s": 924.2144177,
+      "Pkt Len Mean": 62.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00175",
+    "timestamp": "02/03/2018 04:28:09",
+    "features": {
+      "Flow Duration": 6612866.0,
+      "Tot Fwd Pkts": 4.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 49.60027921,
+      "Flow Pkts/s": 1.209762908,
+      "Fwd Pkts/s": 0.604881454,
+      "Bwd Pkts/s": 0.604881454,
+      "Pkt Len Mean": 36.44444444,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00176",
+    "timestamp": "02/03/2018 11:23:17",
+    "features": {
+      "Flow Duration": 547.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 3656.30713,
+      "Fwd Pkts/s": 3656.30713,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00177",
+    "timestamp": "02/03/2018 02:37:04",
+    "features": {
+      "Flow Duration": 1726967.0,
+      "Tot Fwd Pkts": 8.0,
+      "Tot Bwd Pkts": 7.0,
+      "Flow Byts/s": 1568.646071,
+      "Flow Pkts/s": 8.685747904,
+      "Fwd Pkts/s": 4.632398882,
+      "Bwd Pkts/s": 4.053349022,
+      "Pkt Len Mean": 169.3125,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00178",
+    "timestamp": "02/03/2018 11:44:39",
+    "features": {
+      "Flow Duration": 11406.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39891.28529,
+      "Flow Pkts/s": 613.7120814,
+      "Fwd Pkts/s": 263.0194634,
+      "Bwd Pkts/s": 350.6926179,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00179",
+    "timestamp": "02/03/2018 11:54:07",
+    "features": {
+      "Flow Duration": 484.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 159090.9091,
+      "Flow Pkts/s": 6198.347107,
+      "Fwd Pkts/s": 6198.347107,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 30.75,
+      "SYN Flag Cnt": 1.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00180",
+    "timestamp": "02/03/2018 04:46:27",
+    "features": {
+      "Flow Duration": 2370813.0,
+      "Tot Fwd Pkts": 9.0,
+      "Tot Bwd Pkts": 5.0,
+      "Flow Byts/s": 334.4844153,
+      "Flow Pkts/s": 5.905147306,
+      "Fwd Pkts/s": 3.796166125,
+      "Bwd Pkts/s": 2.108981181,
+      "Pkt Len Mean": 52.86666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00181",
+    "timestamp": "02/03/2018 01:02:36",
+    "features": {
+      "Flow Duration": 11251.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 40440.8497,
+      "Flow Pkts/s": 622.1669185,
+      "Fwd Pkts/s": 266.6429651,
+      "Bwd Pkts/s": 355.5239534,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00182",
+    "timestamp": "02/03/2018 05:00:38",
+    "features": {
+      "Flow Duration": 41.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 48780.4878,
+      "Fwd Pkts/s": 48780.4878,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00183",
+    "timestamp": "02/03/2018 09:04:37",
+    "features": {
+      "Flow Duration": 690.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 168115.942,
+      "Flow Pkts/s": 2898.550725,
+      "Fwd Pkts/s": 1449.275362,
+      "Bwd Pkts/s": 1449.275362,
+      "Pkt Len Mean": 53.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00184",
+    "timestamp": "02/03/2018 09:13:42",
+    "features": {
+      "Flow Duration": 999.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 208208.2082,
+      "Flow Pkts/s": 2002.002002,
+      "Fwd Pkts/s": 1001.001001,
+      "Bwd Pkts/s": 1001.001001,
+      "Pkt Len Mean": 82.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00185",
+    "timestamp": "02/03/2018 03:00:22",
+    "features": {
+      "Flow Duration": 468.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 341880.3419,
+      "Flow Pkts/s": 4273.504274,
+      "Fwd Pkts/s": 2136.752137,
+      "Bwd Pkts/s": 2136.752137,
+      "Pkt Len Mean": 64.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00186",
+    "timestamp": "02/03/2018 11:35:19",
+    "features": {
+      "Flow Duration": 475.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4210.526316,
+      "Fwd Pkts/s": 4210.526316,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00187",
+    "timestamp": "02/03/2018 10:38:25",
+    "features": {
+      "Flow Duration": 10745.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 42345.27687,
+      "Flow Pkts/s": 651.465798,
+      "Fwd Pkts/s": 279.1996277,
+      "Bwd Pkts/s": 372.2661703,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00188",
+    "timestamp": "02/03/2018 12:27:16",
+    "features": {
+      "Flow Duration": 769.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 187256.1769,
+      "Flow Pkts/s": 2600.780234,
+      "Fwd Pkts/s": 1300.390117,
+      "Bwd Pkts/s": 1300.390117,
+      "Pkt Len Mean": 62.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00189",
+    "timestamp": "02/03/2018 10:07:54",
+    "features": {
+      "Flow Duration": 103232.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 1976.131432,
+      "Flow Pkts/s": 38.74767514,
+      "Fwd Pkts/s": 19.37383757,
+      "Bwd Pkts/s": 19.37383757,
+      "Pkt Len Mean": 49.4,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00190",
+    "timestamp": "02/03/2018 10:28:11",
+    "features": {
+      "Flow Duration": 10471.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 43453.34734,
+      "Flow Pkts/s": 668.513036,
+      "Fwd Pkts/s": 286.5055869,
+      "Bwd Pkts/s": 382.0074491,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00191",
+    "timestamp": "02/03/2018 03:49:41",
+    "features": {
+      "Flow Duration": 5908576.0,
+      "Tot Fwd Pkts": 4.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 55.51252958,
+      "Flow Pkts/s": 1.353964136,
+      "Fwd Pkts/s": 0.676982068,
+      "Bwd Pkts/s": 0.676982068,
+      "Pkt Len Mean": 36.44444444,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00192",
+    "timestamp": "02/03/2018 01:49:35",
+    "features": {
+      "Flow Duration": 11522.0,
+      "Tot Fwd Pkts": 3.0,
+      "Tot Bwd Pkts": 4.0,
+      "Flow Byts/s": 39489.67193,
+      "Flow Pkts/s": 607.5334143,
+      "Fwd Pkts/s": 260.3714633,
+      "Bwd Pkts/s": 347.1619511,
+      "Pkt Len Mean": 56.875,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 1.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00193",
+    "timestamp": "02/03/2018 03:19:23",
+    "features": {
+      "Flow Duration": 11629.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 11952.87643,
+      "Flow Pkts/s": 171.9838335,
+      "Fwd Pkts/s": 85.99191676,
+      "Bwd Pkts/s": 85.99191676,
+      "Pkt Len Mean": 59.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00194",
+    "timestamp": "02/03/2018 11:01:59",
+    "features": {
+      "Flow Duration": 424.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 183962.2642,
+      "Flow Pkts/s": 4716.981132,
+      "Fwd Pkts/s": 2358.490566,
+      "Bwd Pkts/s": 2358.490566,
+      "Pkt Len Mean": 36.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00195",
+    "timestamp": "02/03/2018 11:28:44",
+    "features": {
+      "Flow Duration": 86578.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 2.0,
+      "Flow Byts/s": 3210.977385,
+      "Flow Pkts/s": 46.20111345,
+      "Fwd Pkts/s": 23.10055672,
+      "Bwd Pkts/s": 23.10055672,
+      "Pkt Len Mean": 64.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00196",
+    "timestamp": "02/03/2018 09:05:36",
+    "features": {
+      "Flow Duration": 1532.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 99869.4517,
+      "Flow Pkts/s": 1305.483029,
+      "Fwd Pkts/s": 652.7415144,
+      "Bwd Pkts/s": 652.7415144,
+      "Pkt Len Mean": 61.66666667,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00197",
+    "timestamp": "02/03/2018 03:40:43",
+    "features": {
+      "Flow Duration": 449.0,
+      "Tot Fwd Pkts": 2.0,
+      "Tot Bwd Pkts": 0.0,
+      "Flow Byts/s": 0.0,
+      "Flow Pkts/s": 4454.342984,
+      "Fwd Pkts/s": 4454.342984,
+      "Bwd Pkts/s": 0.0,
+      "Pkt Len Mean": 0.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Bot"
+  },
+  {
+    "window_id": "win-00198",
+    "timestamp": "02/03/2018 03:04:53",
+    "features": {
+      "Flow Duration": 1862.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 64446.83136,
+      "Flow Pkts/s": 1074.113856,
+      "Fwd Pkts/s": 537.056928,
+      "Bwd Pkts/s": 537.056928,
+      "Pkt Len Mean": 57.33333333,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  },
+  {
+    "window_id": "win-00199",
+    "timestamp": "02/03/2018 09:13:53",
+    "features": {
+      "Flow Duration": 2209.0,
+      "Tot Fwd Pkts": 1.0,
+      "Tot Bwd Pkts": 1.0,
+      "Flow Byts/s": 61113.62608,
+      "Flow Pkts/s": 905.387053,
+      "Fwd Pkts/s": 452.6935265,
+      "Bwd Pkts/s": 452.6935265,
+      "Pkt Len Mean": 58.0,
+      "SYN Flag Cnt": 0.0,
+      "RST Flag Cnt": 0.0,
+      "Active Mean": 0.0,
+      "Idle Mean": 0.0
+    },
+    "label": "Benign"
+  }
+]

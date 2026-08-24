@@ -1,0 +1,29 @@
+# NetGuard AI — Backend Dependencies (inference only, training in Colab)
+# Phase 1 placeholder — full deps activated Phase 2
+
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.6.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+sqlalchemy==2.0.27
+psycopg2-binary==2.9.9
+alembic==1.13.0
+python-multipart==0.0.9
+
+# ML inference
+scikit-learn==1.4.0
+xgboost==2.0.3
+torch==2.2.0
+numpy==1.26.0
+pandas==2.2.0
+joblib==1.3.2
+
+# Utils
+httpx==0.26.0
+structlog==24.1.0
+
+# Testing
+pytest==8.0.0
+pytest-asyncio==0.23.0
+httpx==0.26.0
