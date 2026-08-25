@@ -153,15 +153,13 @@ This allows security teams to receive an early warning before the predicted atta
 | LSTM                | Temporal forecasting |
 | Transformer         | Temporal forecasting |
 | Isolation Forest    | Anomaly detection    |
-<<<<<<< HEAD
-## Model Accuracy
-=======
 
 The LSTM and Transformer analyse historical sequences to forecast future attack probability.
 
 Isolation Forest provides an additional anomaly signal and is not used as a forecasting model.
 ---
->>>>>>> 19db6ac6afe743350afaf62aed45004dc063d1b8
+
+## Model Accuracy
 Logistic Regression — 99.69%
 Isolation Forest — 99.27%
 LSTM — 98.33%
