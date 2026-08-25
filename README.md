@@ -153,7 +153,7 @@ This allows security teams to receive an early warning before the predicted atta
 | LSTM                | Temporal forecasting |
 | Transformer         | Temporal forecasting |
 | Isolation Forest    | Anomaly detection    |
-
+## Model Accuracy
 Logistic Regression — 99.69%
 Isolation Forest — 99.27%
 LSTM — 98.33%
