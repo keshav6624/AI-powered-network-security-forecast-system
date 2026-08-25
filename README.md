@@ -154,16 +154,15 @@ This allows security teams to receive an early warning before the predicted atta
 | Transformer         | Temporal forecasting |
 | Isolation Forest    | Anomaly detection    |
 
+The LSTM and Transformer analyse historical sequences to forecast future attack probability.
+
+Isolation Forest provides an additional anomaly signal and is not used as a forecasting model.
+---
 Logistic Regression — 99.69%
 Isolation Forest — 99.27%
 LSTM — 98.33%
 Temporal Transformer — 96.14%
 Retrained XGBoost — 66.67%
-
-The LSTM and Transformer analyse historical sequences to forecast future attack probability.
-
-Isolation Forest provides an additional anomaly signal and is not used as a forecasting model.
-
 ---
 
 ## Risk Levels
